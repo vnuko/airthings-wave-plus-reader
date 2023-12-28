@@ -1,0 +1,4 @@
+# Ignore files created by macOS
+.DS_Store
+
+*.json
