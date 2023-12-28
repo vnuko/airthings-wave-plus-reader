@@ -1,4 +1,7 @@
 # Ignore files created by macOS
 .DS_Store
 
+# Ignore PyCharm project settings (recursively)
+.idea/
+
 *.json
